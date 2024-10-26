@@ -1,6 +1,6 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
 {
-    "image":"ghcr.io/uw-ssec/base-image:latest",
+    "image":"ghcr.io/uw-ssec/base-ssec-project:latest",
   
     "customizations": {
       "vscode": {
