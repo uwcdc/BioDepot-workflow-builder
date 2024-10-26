@@ -1,2 +1,6 @@
 dockerlog
 finished
+
+# pixi environments
+.pixi
+*.egg-info
